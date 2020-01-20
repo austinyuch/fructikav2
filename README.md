@@ -1,5 +1,5 @@
 # fructika V2
-
+Test action
 Version 2 of the Fructika mobile app https://fructika.com.
 
 Fructika is a mobile (Android & iOS) app that lets you look up the Fructose value of common foods. It's built using [Flutter](https://flutter.dev/) and [SQLite FTS](https://www.sqlite.org/) along with a few awesome flutter packages.
